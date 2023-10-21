@@ -1,5 +1,5 @@
 ---
-title: "Building a QR code micro-app"
+title: "Building a QR code micro"
 subtitle: "Build a serverless 'hello-world' QR code app with Python and AWS."
 date: "2021-08-14"
 ---
